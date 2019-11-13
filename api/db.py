@@ -2,9 +2,6 @@ from api import app
 from flask_sqlalchemy import SQLAlchemy
 
 host='0.0.0.0'
-#host='95.216.112.188'
-podhost = '95.216.245.161'
-# host='rtv.stockone.in'
 username='root'
 password='root'
 
