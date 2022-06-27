@@ -16,6 +16,6 @@ PyHamcrest==1.9.0
 pymongo==3.7.2
 PyMySQL==0.9.3
 python-dateutil==2.7.5
-reportlab==3.5.12
+reportlab==3.5.55
 requests==2.21.0
 SQLAlchemy==1.2.15
